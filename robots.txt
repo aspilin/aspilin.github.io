@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://aspilin.github.io/sitemap.xml
+Sitemap: https://aspilin.coding.me/sitemap.xml
