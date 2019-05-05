@@ -9,18 +9,75 @@
   </url>
   
   <url>
-    <loc>https://aspilin.coding.me/</loc>
-    <lastmod>2019-05-01T00:00:00+00:00</lastmod>
+    <loc>https://aspilin.coding.me/categories/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://aspilin.coding.me/categories/</loc>
+    <loc>https://aspilin.coding.me/post/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://aspilin.coding.me/tags/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aspilin.coding.me/categories/%E4%B8%9C%E4%B8%9C/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aspilin.coding.me/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aspilin.coding.me/categories/%E5%B0%8F%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aspilin.coding.me/tags/%E5%B0%8F%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aspilin.coding.me/categories/%E8%AF%AD%E6%96%87/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aspilin.coding.me/tags/%E8%AF%AD%E6%96%87/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aspilin.coding.me/post/%E8%AF%AD%E6%96%87-%E5%B0%8F%E5%AD%A6%E4%B8%80%E5%B9%B4%E7%BA%A7%E4%B8%8B-%E9%94%99%E9%A2%98%E9%9B%86-%E4%B8%9C%E4%B8%9C/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://aspilin.coding.me/categories/%E9%94%99%E9%A2%98%E9%9B%86/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://aspilin.coding.me/tags/%E9%94%99%E9%A2%98%E9%9B%86/</loc>
+    <lastmod>2019-05-05T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
