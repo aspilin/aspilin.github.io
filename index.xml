@@ -36,8 +36,9 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;###单位换算及钱币概念不清
-&lt;strong&gt;按要求摆出钱数&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;单位换算及钱币概念不清&#34;&gt;单位换算及钱币概念不清&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;按要求摆出钱数&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;26元：2个10和6个1元（没写单位元）&lt;/p&gt;
 
@@ -53,8 +54,9 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;###题意没弄清
-&lt;strong&gt;用15元钱正好能买下面哪两种物品？&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;题意没弄清&#34;&gt;题意没弄清&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;用15元钱正好能买下面哪两种物品？&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;6元茶杯，7元冰淇淋，6元9角牙膏，8元钢笔&lt;/p&gt;
 
@@ -76,14 +78,13 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;###没列算式
-&lt;strong&gt;买一个20元的足球和一盒9元的蜡笔，50元够吗？&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;没列算式&#34;&gt;没列算式&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;买一个20元的足球和一盒9元的蜡笔，50元够吗？&lt;/strong&gt;&lt;/p&gt;
 
 &lt;p&gt;答：够了&lt;/p&gt;
 
 &lt;p&gt;（要列出算式20+9=29，29&amp;lt;50）&lt;/p&gt;
-
-&lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;一个两位数，十位上的数和个位上的数合起来是8，这个数可能是多少？&lt;/strong&gt;&lt;/p&gt;
 
@@ -93,7 +94,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;计算错误&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;计算错误&#34;&gt;计算错误&lt;/h3&gt;
 
 &lt;p&gt;7+45=（&lt;del&gt;42&lt;/del&gt;）&lt;/p&gt;
 
